@@ -42,6 +42,8 @@ int main()
 
     delete[] b;
 
+    std::cout << "halo" << std::endl;
+
     return 0;
 }
 
